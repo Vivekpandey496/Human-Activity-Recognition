@@ -24,6 +24,16 @@ By using the sensors(Gyroscope and accelerometer) in a smartphone, they have cap
 ## Train and test data were saperated
  - The readings from ___70%___ of the volunteers were taken as ___trianing data___ and remaining ___30%___ subjects recordings were taken for ___test data___
  
+ ###  Y_Labels(Encoded)
++ In the dataset, Y_labels are represented as numbers from 1 to 6 as their identifiers.
+
+	- WALKING as __1__
+	- WALKING_UPSTAIRS as __2__
+	- WALKING_DOWNSTAIRS as __3__
+	- SITTING as __4__
+	- STANDING as __5__
+	- LAYING as __6__
+ 
  
 ## Problem Framework
 
